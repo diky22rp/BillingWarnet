@@ -1,0 +1,12 @@
+c:\users\fasilkom\documents\visual studio 2010\Projects\BillingWarnet\BillingWarnet\bin\Debug\BillingWarnet.exe
+c:\users\fasilkom\documents\visual studio 2010\Projects\BillingWarnet\BillingWarnet\bin\Debug\BillingWarnet.pdb
+c:\users\fasilkom\documents\visual studio 2010\Projects\BillingWarnet\BillingWarnet\bin\Debug\BillingWarnet.xml
+c:\users\fasilkom\documents\visual studio 2010\Projects\BillingWarnet\BillingWarnet\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\fasilkom\documents\visual studio 2010\Projects\BillingWarnet\BillingWarnet\obj\x86\Debug\BillingWarnet.Form1.resources
+c:\users\fasilkom\documents\visual studio 2010\Projects\BillingWarnet\BillingWarnet\obj\x86\Debug\BillingWarnet.Resources.resources
+c:\users\fasilkom\documents\visual studio 2010\Projects\BillingWarnet\BillingWarnet\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\fasilkom\documents\visual studio 2010\Projects\BillingWarnet\BillingWarnet\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\fasilkom\documents\visual studio 2010\Projects\BillingWarnet\BillingWarnet\obj\x86\Debug\BillingWarnet.exe
+c:\users\fasilkom\documents\visual studio 2010\Projects\BillingWarnet\BillingWarnet\obj\x86\Debug\BillingWarnet.xml
+c:\users\fasilkom\documents\visual studio 2010\Projects\BillingWarnet\BillingWarnet\obj\x86\Debug\BillingWarnet.pdb
+C:\Users\FASILKOM\Documents\Visual Studio 2010\Projects\BillingWarnet\BillingWarnet\obj\x86\Debug\BillingWarnet.Login.resources
